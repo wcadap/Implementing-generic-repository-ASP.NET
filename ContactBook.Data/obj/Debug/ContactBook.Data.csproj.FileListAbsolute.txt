@@ -1,0 +1,9 @@
+D:\Blogs\Design Patterns\Repository\ContactBook\ContactBook.Data\bin\Debug\ContactBook.Data.dll
+D:\Blogs\Design Patterns\Repository\ContactBook\ContactBook.Data\bin\Debug\ContactBook.Data.pdb
+D:\Blogs\Design Patterns\Repository\ContactBook\ContactBook.Data\obj\Debug\ContactBook.Data.csprojResolveAssemblyReference.cache
+D:\Blogs\Design Patterns\Repository\ContactBook\ContactBook.Data\obj\Debug\ContactBook.Data.dll
+D:\Blogs\Design Patterns\Repository\ContactBook\ContactBook.Data\obj\Debug\ContactBook.Data.pdb
+D:\Blogs\Design Patterns\Repository\ContactBook\ContactBook.Data\bin\Debug\ContactBook.Core.dll
+D:\Blogs\Design Patterns\Repository\ContactBook\ContactBook.Data\bin\Debug\EntityFramework.dll
+D:\Blogs\Design Patterns\Repository\ContactBook\ContactBook.Data\bin\Debug\ContactBook.Core.pdb
+D:\Blogs\Design Patterns\Repository\ContactBook\ContactBook.Data\bin\Debug\EntityFramework.xml
